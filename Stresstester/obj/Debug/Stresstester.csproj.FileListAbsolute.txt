@@ -1,0 +1,15 @@
+C:\Users\lucad\source\repos\Stresstester\Stresstester\bin\Debug\Stresstester.exe.config
+C:\Users\lucad\source\repos\Stresstester\Stresstester\bin\Debug\Stresstester.exe
+C:\Users\lucad\source\repos\Stresstester\Stresstester\bin\Debug\Stresstester.pdb
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\MainWindow.g.cs
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\App.g.cs
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester_MarkupCompile.cache
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester_MarkupCompile.lref
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\MainWindow.baml
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.g.resources
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.Properties.Resources.resources
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.csproj.GenerateResource.cache
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.exe
+C:\Users\lucad\source\repos\Stresstester\Stresstester\obj\Debug\Stresstester.pdb
